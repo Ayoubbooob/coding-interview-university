@@ -697,6 +697,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 - ### Hash table
     - [ ] Videos:
+        - [X] [Hash Tables and Hash Functions (video)](https://www.youtube.com/watch?v=KyUTuwz_b7Q&t=257s)
+        - 
         - [ ] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
         - [ ] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
         - [ ] [Open Addressing, Cryptographic Hashing (video)](https://www.youtube.com/watch?v=rvdJDijO2Ro&index=10&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
